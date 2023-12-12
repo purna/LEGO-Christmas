@@ -329,7 +329,7 @@ PrefabInstance:
     - target: {fileID: 8081142150325607243, guid: e2becd72e023045789792c7e83aeb400,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 241.6
+      value: 241
       objectReference: {fileID: 0}
     - target: {fileID: 8081142150325607243, guid: e2becd72e023045789792c7e83aeb400,
         type: 3}
@@ -392,7 +392,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 67.8}
+  m_AnchoredPosition: {x: 0, y: 67}
   m_SizeDelta: {x: -80, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &267349331
@@ -439,7 +439,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Year 2 Games Development Student 2023
+  m_text: ESCG Lewes Games Development Student 2023
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
   m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 28.994598, w: 0}
+  m_margin: {x: 0, y: 0, z: 28.994598, w: -11.048088}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -554,7 +554,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -127.6}
+  m_AnchoredPosition: {x: 0, y: -132}
   m_SizeDelta: {x: -60, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &295853017
@@ -1537,7 +1537,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Audio  from https://etc.usf.edu/lit2go '
+  m_text: 'Join us at www.escg.ac.uk | Audio  from https://etc.usf.edu/lit2go  '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a14e522e426f5472a8c9710aa5b252b7, type: 2}
   m_sharedMaterial: {fileID: -6656905189396515994, guid: a14e522e426f5472a8c9710aa5b252b7,
