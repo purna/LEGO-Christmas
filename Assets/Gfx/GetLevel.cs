@@ -5,7 +5,7 @@ using UnityEngine;
 public class GetLevel : MonoBehaviour
 {
     int level = 0;
-    public GameObject level2, level2Locked, level3, level3locked, level4, level4locked, level5, level5locked, level6, level6locked, level7, level7locked, level8, level8locked, level9, level9Locked;
+    public GameObject level2, level2Locked, level3, level3locked, level4, level4locked, level5, level5locked, level6, level6locked, level7, level7locked, level8, level8locked, level9, level9Locked, level10, level10Locked, level11, level11Locked, level12, level12Locked;
 
 
     // Start is called before the first frame update
@@ -67,12 +67,22 @@ public class GetLevel : MonoBehaviour
             level9.SetActive(true);
             level9Locked.SetActive(false);
         }
+        if (level >= 10)
+        {
+            level10.SetActive(true);
+            level10Locked.SetActive(false);
+        }
+        if (level >= 11)
+        {
+            level11.SetActive(true);
+            level11Locked.SetActive(false);
+        }
+        if (level >= 12)
+        {
+            level12.SetActive(true);
+            level12Locked.SetActive(false);
+        }
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
